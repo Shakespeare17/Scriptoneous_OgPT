@@ -49,7 +49,6 @@ Welcome to the Linux system administrator program. Please enter the number of th
 def manage_user_accounts():
     # Implement the logic for managing user accounts here
     pass
-    Here's an updated version of the script with the "Manage user accounts" submenu implemented:
 
 def main():
     while True:
